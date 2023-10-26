@@ -3,11 +3,9 @@
 <h3 align="center"> Automation QA Engineer (Java, Ruby) </h3>
 <h3 align="center"> www.linkedin.com/in/irina-chernobuk </h3>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+https://media.giphy.com/media/zgduo4kWRRDVK/giphy.gif
 
-<!--
+
 **IreneChernobuk/IreneChernobuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
