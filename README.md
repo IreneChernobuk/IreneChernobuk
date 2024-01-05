@@ -12,9 +12,16 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-
 \:woman_technologist: About Me :
 ⚡ I am a Full Stack Automation QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IreneChernobuk&show_icons=true&theme=transparent)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IreneChernobuk&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+
 > Skills
 >> :sauropod: writing test cases and checklists for manual and automated testing
 >> :sauropod: developing automated tests for functional, cross-browser, validation testing using Selenium WebDriver, TestNG and RestAssured
@@ -28,5 +35,3 @@
 >> :brain: software development and testing process
 >> :brain: GIT
 >> :brain: SQL commands
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IreneChernobuk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
