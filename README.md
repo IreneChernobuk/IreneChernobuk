@@ -1,10 +1,11 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Irina Chernobuk</a> 
+<h1 align="center">Hi there, I'm Irina Chernobuk 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> Automation QA Engineer (Java, Ruby) </h3>
+<h3 align="center"> Automation QA Engineer (Java | Ruby) </h3>
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/irina-chernobuk">
+  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+      "linkedin.com/in/irina-chernobuk"
+</a>
   
   </div>
 <div align="center">
@@ -27,3 +28,5 @@
 >> :brain: software development and testing process
 >> :brain: GIT
 >> :brain: SQL commands
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IreneChernobuk&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
