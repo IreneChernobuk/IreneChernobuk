@@ -1,37 +1,79 @@
-<h1 align="center">Hi there, I'm Irina Chernobuk 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center"> Automation QA Engineer (Java | Ruby) </h3>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      "linkedin.com/in/irina-chernobuk"
-</a>
-  
-  </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&height=100&lines=Hi+there%2C+I'm+Irina+Chernobuk+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile+%F0%9F%8C%9F;Automation+QA+Engineer+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
-\:woman_technologist: About Me :
-⚡ I am a Full Stack Automation QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IreneChernobuk&show_icons=true&theme=transparent)
+---
 
-<br>
+### 👨‍💻 About Me:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IreneChernobuk&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I'm currently working on **Automation Testing Projects**
+- 🌱 I'm currently learning **Java & Ruby Testing Frameworks**
+- 👯 I'm looking to collaborate on **Open Source Testing Tools**
+- 💬 Ask me about **Selenium,Selenide, TestNG, Junit**
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/irina-chernobuk)**
+- ⚡ Fun fact: **I love debugging code more than writing it! 🐛**
 
+---
 
-> Skills
->> :sauropod: writing test cases and checklists for manual and automated testing
->> :sauropod: developing automated tests for functional, cross-browser, validation testing using Selenium WebDriver, TestNG and RestAssured
->> :sauropod: running automated tests using XML Test Suites TestNG and CI (Jenkins)
->> :sauropod: connecting remote driver using cloud server SauseLabs
->> :sauropod: multiple browsers work experience
+### 🛠️ Languages and Tools:
 
-> Understanding and knowledge
->> :brain: Java language basics
->> :brain: websites structure: HTML/CSS/XPATH
->> :brain: software development and testing process
->> :brain: GIT
->> :brain: SQL commands
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Selenide-16A5E6?style=for-the-badge&logo=Selenide&logoColor=white" alt="Selenide"/>
+  <img src="https://img.shields.io/badge/TestNG-000000?style=for-the-badge&logo=TestNG&logoColor=white" alt="TestNG"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=JUnit5&logoColor=white" alt="JUnit"/>
+  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=Cucumber&logoColor=white" alt="Cucumber"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
+</div>
+
+---
+
+### 📊 GitHub Stats:
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IreneChernobuk&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IreneChernobuk&theme=radical" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📈 Profile Views:
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=IreneChernobuk&style=flat-square&color=blue" alt="Profile Views" />
+</div>
+
+---
+
+### 🤝 Connect with Me:
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/irina-chernobuk" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:chernobukirina.aqa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://t.me/irina_chernobuk">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</div>
+
+---
+
+### 🎯 My Projects:
+
+<div align="center">
+  <a href="https://github.com/IreneChernobuk?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IreneChernobuk&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</div>
+
+---
