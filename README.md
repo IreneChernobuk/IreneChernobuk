@@ -10,12 +10,11 @@
 
 ### 👨‍💻 About Me:
 
-- 🔭 I'm currently working on **Automation Testing Projects**
-- 🌱 I'm currently learning **Java & Ruby Testing Frameworks**
-- 👯 I'm looking to collaborate on **Open Source Testing Tools**
-- 💬 Ask me about **Selenium,Selenide, TestNG, Junit**
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/irina-chernobuk)**
-- ⚡ Fun fact: **I love debugging code more than writing it! 🐛**
+- 🔭 Currently focused on: **Automation Testing Projects**
+- 🌱 Learning: **Java & Ruby Testing Frameworks**
+- 🤝 Open to collaboration on: **Open Source Testing Tools**
+- 💬 Expertise **Selenium, Selenide, TestNG, Junit, RSpec**
+- Reach me on:  **[LinkedIn](https://www.linkedin.com/in/irina-chernobuk)**
 
 ---
 
